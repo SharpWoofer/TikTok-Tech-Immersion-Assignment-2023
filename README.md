@@ -29,4 +29,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Acknowledgements
 
-I would like to express my gratitude to the TikTok Tech Immersion team for providing the assignment and the opportunity to work on this project.
+I would like to express my gratitude to the TikTok Tech Immersion team for the opportunity to work on this project.
